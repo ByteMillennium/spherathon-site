@@ -17,6 +17,3 @@ Made by [Byte Millennium](https://bytemillennium.tk). Released in August 2017.
 
 ### License
 Spherathon is distributed under the [Cameron Samuels License](https://git.io/v5ocb).
-<!--
-# Privacy Policy
--->
